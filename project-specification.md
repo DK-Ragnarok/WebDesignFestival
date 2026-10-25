@@ -77,23 +77,25 @@ Jako hlavní digitální průvodce festivalem, který prezentuje všech 60 úči
 
 ## 5. Uživatelské scénáře
 
+(mozna opravene scenare)
+
 **Scénář 1: Zjištění programu na kryté scéně**
 - **Typ uživatele:** Návštěvník v areálu.
 - **Cíl:** Zjistit, kdo hraje dnes večer v Lunar Forest Dome.
 - **Výchozí situace:** Začíná pršet, uživatel hledá přesun pod střechu a otevírá web na mobilu.
-- **Očekávaný výsledek:** V menu vybere "Scény", klikne na "Lunar Forest Dome" a vidí chronologický program pro aktuální den s detaily vystupujících.
+- **Očekávaný výsledek:** V menu vybere sekci „Program“, vyfiltruje scénu „Lunar Forest Dome“ a aktuální den. Zobrazí se mu chronologický rozpis interpretů s přesnými časy vystoupení a detaily kapel na této kryté scéně.
 
 **Scénář 2: Sestavení osobního plánu na víkend**
 - **Typ uživatele:** Fanoušek připravující se na festival.
-- **Cíl:** Uložit si vybraná vystoupení, aby se vyhnul časovým kolizím mezi Solar a Lunar scénou.
-- **Výchozí situace:** Uživatel sedí u počítače a prochází sekci "Program".
-- **Očekávaný výsledek:** U každé kapely klikne na "Přidat do mého programu". V záložce "Můj program" pak vidí přehledný seznam vybraných koncertů ze všech 3 dnů.
+- **Cíl:** Uložit si vybraná vystoupení a vyhnout se časovým kolizím mezi Solar a Lunar scénou.
+- **Výchozí situace:** Uživatel sedí u počítače a prochází sekci „Program“.
+- **Očekávaný výsledek:** U jednotlivých interpretů kliká na „Přidat do mého programu“. V záložce „Můj program“ se mu zobrazí přehled vybraných koncertů ze všech 3 dnů s vizuálním upozorněním na časovou kolizi mezi scénami Solar a Lunar. Uživatel na základě upozornění jedno z překrývajících se vystoupení odebere, čímž získá harmonogram bez kolizí.
 
-**Scénář 3: Doprava do Kutné hory**
-- **Typ uživatele:** Mimokutnhorský návštěvník.
-- **Cíl:** Zjistit, jak se dostane do areálu.
-- **Výchozí situace:** Uživatel stojí na nádraží v Kutné hoře.
-- **Očekávaný výsledek:** Otevře sekci "Praktické info" a podle ní se vydá do arealu v Kutné hoře.
+**Scénář 3: Doprava do Kutné Hory**
+- **Typ uživatele:** Mimokutnohorský návštěvník.
+- **Cíl:** Zjistit, jak se dostane z nádraží přímo do areálu festivalu.
+- **Výchozí situace:** Uživatel stojí na hlavním nádraží v Kutné Hoře a neví, kudy pokračovat.
+- **Očekávaný výsledek:** Otevře sekci „Praktické info“ a podsekci „Doprava“, kde vyhledá trasu z vlakového nádraží. Podle nalezené trasy (jízdního řádu festivalového shuttle busu a vyznačené pěší trasy na mapě) se vydá ke vstupu do areálu.
 
 ---
 
